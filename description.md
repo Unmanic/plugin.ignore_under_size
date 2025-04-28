@@ -1,4 +1,16 @@
 
+---
+
+##### Links:
+
+- [Support](https://unmanic.app/discord)
+- [Issues/Feature Requests](https://github.com/Unmanic/plugin.normalise_aac/issues)
+- [Pull Requests](https://github.com/Unmanic/plugin.normalise_aac/pulls)
+
+---
+
+##### Documentation:
+
 Sizes can be written as:
 
 - Bytes (Eg. '<span style="color:DodgerBlue">50</span>' or '<span style="color:DodgerBlue">800 B</span>')
